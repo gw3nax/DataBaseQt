@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resourses/Images/addField.png</file>
+        <file>resourses/Images/CreateDataBase.png</file>
+        <file>resourses/Images/deleteData.png</file>
+        <file>resourses/Images/ICON.png</file>
+        <file>resourses/Images/merge bases.png</file>
+        <file>resourses/Images/openDataBase.png</file>
+        <file>resourses/Images/SaveDataBase.png</file>
+        <file>resourses/Images/database.png</file>
+        <file>resourses/Images/delete.png</file>
+        <file>resourses/Images/merge.png</file>
+        <file>resourses/Images/open_in_new_window_inv.png</file>
+        <file>resourses/Images/save.png</file>
+        <file>resourses/Images/createBase.png</file>
+        <file>resourses/Images/add.png</file>
+    </qresource>
+</RCC>
